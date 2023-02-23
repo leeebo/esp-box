@@ -1,7 +1,7 @@
 esp_toml_version = 1.0
 
 # This should be a publicly accessible URL of the file server where your firmware binaries are available for download
-firmware_images_url = "https://github.com/espressif/esp-box/releases/download/v0.3.0"
+firmware_images_url = "https://dl.espressif.com/AE/esp-box/"
 
 [ESP-BOX_Demo_EN_V0.3.0]
 # ESP32 Chipsets for which you have a supported Firmware App. Define a property for each supported chipset in the given format.
