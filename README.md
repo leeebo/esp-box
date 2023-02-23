@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/downloads/espressif/esp-box/total" /></a>
 </p>
 
-<a href="https://espressif.github.io/esp-launchpad/?flashConfigURL=https://raw.githubusercontent.com/leeebo/esp-box/master/launch.toml">
+<a href="https://espressif.github.io/esp-launchpad/?flashConfigURL=https://dl.espressif.com/AE/esp-box/esp_box_launch.toml">
     <img alt="Try it with ESP Launchpad" src="https://espressif.github.io/esp-launchpad/assets/try_with_launchpad.png" width="250" height="70">
 </a>
 
